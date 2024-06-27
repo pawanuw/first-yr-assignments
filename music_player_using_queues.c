@@ -68,7 +68,7 @@ void displayQueue() {
 		printf("Now playing: ");
 		printf("%s",queue[front]);
 		printf("\n\n");
-	}
+	} 
 }
 
 int main() {
